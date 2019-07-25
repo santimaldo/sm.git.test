@@ -1,3 +1,4 @@
 # Archivo de prueba 2
 
-a ver que pasa ahora...
+*Modifico el archivo 2* **PERO DESDE EL REPO EN GITHUB**
+
